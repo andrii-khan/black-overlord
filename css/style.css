@@ -7,6 +7,7 @@ body{
 	padding-left: 20px;
 	padding-right: 20px;
 	max-width: 1200px;
+	height: 100vh;
 }
 
 /* Typography */
@@ -56,4 +57,17 @@ textarea {
 	margin-top: 150px;
 	display: none;
 	text-align: center;
+}
+.ba-block {
+	display: flex;
+	justify-content: center;
+}
+.ba-lets-start {
+	margin-top: 45px;
+	text-decoration: none;
+	color: #fff;
+	font-size: 40px;
+	background-color: #000;
+	padding: 5px 10px;
+	border-radius: 10px;
 }
